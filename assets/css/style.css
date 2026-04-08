@@ -1,0 +1,31 @@
+:root {
+    --font-family: 'Roboto';
+    --dark-bg-color: #1f2937;
+    --blue-bg-color: #3882f6;
+    --light-bg-color: #e5e7eb;
+
+    --hero-logo-text-size: 24px;
+
+    --hero-primary-text-color: #f9faf8;
+    --hero-primary-text-size: 48px;
+    --hero-primary-text-weight: 900;
+
+    --hero-secondary-text-color: #e5e7eb;
+    --hero-secondary-text-size: 18px;
+
+    --info-header-text-color: #1f2937;
+    --info-header-text-size: 36px;
+    --info-header-text-weight: 900;
+
+    --quote-text-color: #1f2937;
+    --quote-text-size: 36px;
+    --quote-text-weight: 300;
+    
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
