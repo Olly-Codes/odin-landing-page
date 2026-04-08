@@ -124,14 +124,6 @@
     align-items: center;
 }
 
-.btn {
-    padding: 10px 50px;
-    outline: none;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
-}
-
 .header .content-wrapper .text-wrapper, .header .content-wrapper .img-wrapper {
     flex: 0 0 50%;
 }
@@ -260,4 +252,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+/* ----- Shared */
+.btn {
+    padding: 10px 50px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
 }
