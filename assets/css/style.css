@@ -184,3 +184,27 @@
     margin-top: 20px;
     color: var(--dark-bg-color);
 }
+
+/* ----- Quote Section */
+.quote-section {
+    width: 100%;
+    height: 60vh;
+    background-color: var(--light-bg-color);
+
+    color: var(--quote-text-color);
+    font-size: var(--quote-text-size);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.quote-section p {
+    width: 1200px;
+}
+
+.quote-section .author {
+    text-align: right;
+    font-weight: var(--info-header-text-weight);
+}
